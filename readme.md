@@ -2,7 +2,7 @@
 
 An interactive pathfinding visualizer and benchmark in Python and Pygame. Draw walls, scatter weighted terrain, run BFS, DFS or Dijkstra, and compare how each one performs through live metrics and a reproducible benchmark.
 
-![Dijkstra routing around weighted terrain](screenshot.png)
+![Dijkstra routing around weighted terrain](demo.png)
 
 ## Features
 
